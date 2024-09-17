@@ -1,4 +1,4 @@
-# Sql-Injection
+# SQL INJECTION
 
 ![image](https://github.com/user-attachments/assets/3ae0cea6-41d0-4225-bc9d-4f2f85960611)
 ![image](https://github.com/user-attachments/assets/ab91a74b-ab1f-4310-b33f-39ad2fee57ad)
